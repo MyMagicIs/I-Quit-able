@@ -1,0 +1,7 @@
+F:\111 Student Data – Anuj Shelke\C# and .NET Framework - Part 2\Math Operation App\IQuittable\IQuittable\bin\Debug\IQuittable.exe.config
+F:\111 Student Data – Anuj Shelke\C# and .NET Framework - Part 2\Math Operation App\IQuittable\IQuittable\bin\Debug\IQuittable.exe
+F:\111 Student Data – Anuj Shelke\C# and .NET Framework - Part 2\Math Operation App\IQuittable\IQuittable\bin\Debug\IQuittable.pdb
+F:\111 Student Data – Anuj Shelke\C# and .NET Framework - Part 2\Math Operation App\IQuittable\IQuittable\obj\Debug\IQuittable.csproj.AssemblyReference.cache
+F:\111 Student Data – Anuj Shelke\C# and .NET Framework - Part 2\Math Operation App\IQuittable\IQuittable\obj\Debug\IQuittable.csproj.CoreCompileInputs.cache
+F:\111 Student Data – Anuj Shelke\C# and .NET Framework - Part 2\Math Operation App\IQuittable\IQuittable\obj\Debug\IQuittable.exe
+F:\111 Student Data – Anuj Shelke\C# and .NET Framework - Part 2\Math Operation App\IQuittable\IQuittable\obj\Debug\IQuittable.pdb
